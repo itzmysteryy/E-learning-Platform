@@ -5,18 +5,14 @@ import { getAuth, signInWithEmailAndPassword, GoogleAuthProvider ,signInWithPopu
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-
- apiKey: "AIzaSyAzh0qapVg-vuD5kPGTSUwZp6n9ds2ksd4",
-
- authDomain: "e-students-764ac.firebaseapp.com",
-
- projectId: "e-students-764ac",
-
- storageBucket: "e-students-764ac.appspot.com",
-
- messagingSenderId: "458914599582",
-
- appId: "1:458914599582:web:e3ec37a1c12c97217d618f"
+  apiKey: "AIzaSyBSAfY22YP965ukHqIOGuafl-0TAWTZnws",
+  authDomain: "codemaster-arc.firebaseapp.com",
+  projectId: "codemaster-arc",
+  storageBucket: "codemaster-arc.appspot.com",
+  messagingSenderId: "540576153306",
+  appId: "1:540576153306:web:158fbe92cfd44ae72befe3",
+  measurementId: "G-BBFNZTZQ2L"
+};
 
 };
 
